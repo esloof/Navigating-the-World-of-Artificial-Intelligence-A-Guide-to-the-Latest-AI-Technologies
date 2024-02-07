@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>AI</title>
+    </head>
+    <body>
+        <outline text="AI">
+            <outline text="NVIDIA">
+                <outline text="Jetson">
+                    <outline text="Nano">
+                        <outline text="Kiwi reComputer J3010 - With NVIDIA
+Jetson Orin Nano 4GB module" _note="https://www.kiwi-electronics.com/en/recomputer-j3010-with-nvidia-jetson-orin-nano-4gb-module-11378"></outline>
+                    </outline>
+                    <outline text="NVIDIA JETSON AGX XAVIER
+DEVELOPER KIT 32GB" _note="https://www.siliconhighwaydirect.com/product-p/945-82972-0045-000.htm">
+                        <outline text="Logitech C270 -
+720p HD Webcam" _note="https://www.bol.com/nl/nl/p/logitech-c270-720p-hd-webcam-3mp-grijs/1003004010486898/?Referrer=ADVNLPPcef67400cdbf929700ecc2464ef81115061&amp;utm_source=1115061&amp;utm_medium=Affiliates&amp;utm_campaign=CPS&amp;utm_content=pdl"></outline>
+                    </outline>
+                </outline>
+                <outline text="NVIDIA Jetson Nano
+Ontwikkelaarskit
+(945-13450-0000-100)" _note="https://www.amazon.nl/NVIDIA-Jetson-Nano-Ontwikkelaarskit-945-13450-0000-100/dp/B084DSDDLT/ref=pd_bxgy_sccl_1/260-6832779-0926622?pd_rd_w=oELkf&amp;content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&amp;pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&amp;pf_rd_r=X6A0K1PWER3HR36QDBC2&amp;pd_rd_wg=NC3mu&amp;pd_rd_r=707a2bc5-2dc1-495c-98ec-8661493ff1a5&amp;pd_rd_i=B084DSDDLT&amp;psc=1">
+                    <outline text="NVIDIA Jetson Nano
+Developer Kit - B01">
+                        <outline text="Gratis NVIDIA Cursus">
+                            <outline text="Deep Learning Institute">
+                                <outline text="Getting Started with AI
+on Jetson Nano" _note="https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Seed Studio">
+                    <outline text="Getting Started with CVEDIA-RT on
+NVIDIA® Jetson Devices" _note="https://wiki.seeedstudio.com/CVEDIA-Jetson-Getting-Started/">
+                        <outline text="CVEDIA-RT" _note="https://rt.cvedia.com/">
+                            <outline text="Arjan Wijnveen" _note="https://www.linkedin.com/posts/arjan-wijnveen-57447244_machinelearning-computervision-datascience-activity-7005108381367607297-7sv_/?trk=public_profile_like_view"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Raspberry">
+                <outline text="Machine Learning on a Raspberry Pi: The
+Complete Guide to Setting Up Your
+Raspberry Pi 3 2023 (Mac)" _note="https://wiktoria-kasprzak.medium.com/the-complete-guide-to-setting-up-your-raspberry-pi-3-2023-mac-23c23462794e">
+                    <outline text="Tensor flow">
+                        <outline text="Installing TensorFlow Lite
+on the Raspberry Pi"></outline>
+                        <outline text="Quickstart for Linux-based
+devices with Python"></outline>
+                        <outline text="How To Run TensorFlow Lite on
+Raspberry Pi for Object Detection" _note="https://www.youtube.com/watch?v=aimSGOAUI8Y">
+                            <outline text="https://www.youtube.com/watch?v=aimSGOAUI8Y">
+                                <outline text="https://www.youtube.com/watch?v=aimSGOAUI8Y"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Using the Picamera2 library
+with TensorFlow Lite"></outline>
+                    </outline>
+                </outline>
+                <outline text="5">
+                    <outline text="Raspberry Pi Camera 3" _note="https://www.kiwi-electronics.com/nl/raspberry-pi-camera-3-11239?search=Picamera"></outline>
+                </outline>
+            </outline>
+            <outline text="Google Coral">
+                <outline text="Dev Board"></outline>
+            </outline>
+            <outline text="Brainy Pi">
+                <outline text="Brainy Pi: A Jetson
+Nano Alternative to Run AI Applications at lower cost" _note="https://medium.com/@brainypipc/brainy-pi-a-jetson-nano-alternative-to-run-ai-applications-at-lower-cost-72fb08463cb#:~:text=Jetson%20Nano%20is%20a%20quad,leaner%20and%20cost%2Deffective%20alternative."></outline>
+                <outline text="The story of Brainy
+pi — Know it all"></outline>
+            </outline>
+            <outline text="PyTorch"></outline>
+        </outline>
+    </body>
+</opml>
